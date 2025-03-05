@@ -4,11 +4,11 @@ flavour Fusion: AI-Driven Recipe Blogging is a web application that leverages Go
 
 Deploy App Link:
 
-
+https://flavour-fusion-kex82obrws2kabdgujbo83.streamlit.app/
 
 Video Demo :
 
-
+https://drive.google.com/file/d/18kiKK80MHdoQ0FYaAtFREuyFb0_DsNBE/view?usp=drive_link
 
 Documentation File/Link:
 
